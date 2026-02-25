@@ -88,7 +88,6 @@ docker container stop 59f
 docker container rm 59f
 ````
 <img width="322" height="74" alt="image" src="https://github.com/user-attachments/assets/90aeacd4-4684-4174-b6d9-91417b8cd15e" />
-
 <img width="1037" height="111" alt="image" src="https://github.com/user-attachments/assets/cb4d8e53-24b7-44f8-aabe-33a6660e8bfa" />
 
 ### Para eliminar una imagen
